@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou o Felipe
 
-<!--
-**Felipethi01/Felipethi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Técnico em Informática no IFSP** e tenho interesse em desenvolvimento de software e tecnologia.
 
-Here are some ideas to get you started:
+## 🎓 Projeto acadêmico em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GameSale
+
+O **GameSale** foi um projeto acadêmico desenvolvido como Trabalho de Conclusão de Curso (TCC), com o objetivo de reunir promoções de jogos digitais em uma única plataforma. O sistema apresenta informações sobre os jogos e direciona os usuários para os sites oficiais das ofertas.
+
+**Tecnologias utilizadas:** PHP • Python • MySQL • HTML • CSS • Bootstrap
+
+🔗 **[Acesse o repositório do GameSale](https://github.com/ViniJapa159/TccSite)**
+
+---
+
+## 💻 Tecnologias
+
+PHP • Python • Java • MySQL • HTML • CSS • JavaScript
